@@ -1,0 +1,48 @@
+#title {
+    background-color: black;
+    color:aliceblue;
+    padding: 5px;
+    margin-top: 5px;
+    text-align: center;
+    /* font-size: 50px; */
+}
+
+#box h2 {
+    color: black;
+    font-size: 50px;
+    margin: 60px;
+    align-items: center;
+
+}
+#sort{
+    color: black;
+    
+}
+.game-item  :hover{
+    background-color: white;
+   
+}
+.game-item{
+    color: darkblue;
+}
+
+#slist {
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+body, html {
+    height: 200%;
+  }
+  
+  .bg {
+    width: 100%;
+    height: 150vh;
+    position: fixed;
+    background:url("images/rentomojo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: -100;
+  
+  }
+  
+  
